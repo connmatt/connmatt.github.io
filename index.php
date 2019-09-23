@@ -1,4 +1,6 @@
-#include file="header.html"
+<?php
+    include 'header.html';
+?>
             
         <!-- add Carousel component -->
         <br /><br />
@@ -6,5 +8,7 @@
 
         <br /><br />
         <hr>
-#include file="footer.html"
-
+        
+<?php
+    include 'footer.html';
+?>
