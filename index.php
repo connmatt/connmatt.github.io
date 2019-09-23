@@ -1,14 +1,14 @@
 <?php
-    include './header.html';
+    include 'header.php';
 ?>
             
         <!-- add Carousel component -->
         <br /><br />
-        <a class="btn btn-outline-primary" href="login.php" role="button">Login </a>
+        <a class="btn btn-outline-primary" href="" role="button"> Resume </a>
 
         <br /><br />
         <hr>
         
 <?php
-    include './footer.html';
+    include 'footer.php';
 ?>
