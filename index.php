@@ -1,5 +1,5 @@
 <?php
-    include 'header.html';
+    include './header.html';
 ?>
             
         <!-- add Carousel component -->
@@ -10,5 +10,5 @@
         <hr>
         
 <?php
-    include 'footer.html';
+    include './footer.html';
 ?>
